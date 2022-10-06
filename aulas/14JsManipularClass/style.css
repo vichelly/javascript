@@ -1,0 +1,30 @@
+#exemplo{
+    width: 70px;
+    padding: 70px;
+    margin-bottom: 25px;
+    border: 1px solid #ccc;
+}
+
+.verde{
+    background-color: green;
+    color: aliceblue;
+}
+.vermelho{
+    background-color: red;
+    color: aliceblue;
+}
+.azul{
+    color: aliceblue;
+    background-color: blue;
+}
+
+#ex{
+    width: 70px;
+    padding: 70px;
+    margin-bottom: 25px;
+    border: 1px solid #ccc;
+}
+
+.preto{
+    background-color: rgb(29, 29, 29);
+}
